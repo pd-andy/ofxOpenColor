@@ -12,6 +12,10 @@ Open color goals:
 - All colors will be beautiful in itself and harmonious
 - At the same brightness level, the perceived brightness will be constant
 
+## Available colors
+
+![available colors](https://yeun.github.io/open-color/asset/images/open-color.svg)
+
 ## Usage
 
 Include ```ofxOpenColor.h``` wherever you would like to use the Open color palette, typically ```ofApp.h```. ofxOpenColor follows the naming and usage patterns of the original naming convention as closely as possible.
